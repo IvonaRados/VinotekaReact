@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  color: #333;
+}
+
+body {
+  background-color: gainsboro;
+  margin: 0;
+  margin-left: 10pt;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navBar{
+  background-color: rgb(121, 116, 116);
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
